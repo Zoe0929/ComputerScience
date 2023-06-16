@@ -1,5 +1,5 @@
 # ComputerScience
-### CS 지식 뿌슈기 🎯
+### CS 면접 대비 🎯
 
 ✍️참고 자료: 
 
